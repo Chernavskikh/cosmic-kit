@@ -1,1 +1,1 @@
-cosmic-sound-kit - simple page with keyboard sound effects
+cosmic-kit - simple page with keyboard sound effects
