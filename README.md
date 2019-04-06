@@ -1,2 +1,1 @@
-# new_page_test
-test creating github page
+cosmic-sound-kit - simple page with keyboard sound effects
